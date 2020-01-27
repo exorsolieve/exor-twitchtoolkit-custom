@@ -1,20 +1,440 @@
 {
 	"incitems" : [
 	{
-		"abr": "levelskill",
+		"abr": "tornado",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 3000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "clear",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rain",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "vomit",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunder",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drythunder",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "lightsnow",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "heavysnow",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fog",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "heatwave",
+		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "coldsnap",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "solarflare",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fallout",
+		"price": 5000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "volcanicwinter",
+		"price": 3750,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "eclipse",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "aurora",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "blight",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "refugee",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "tame",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wanderer",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "resources",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "transportcrash",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "traders",
+		"price": 100,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltrader",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "meteor",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "mib",
+		"price": 750,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rabies",
+		"price": 250,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicdrone",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "sprout",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "herdmigration",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "animals",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "tarzan",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "thrumboherd",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "shipchunk",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "travelers",
+		"price": 100,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "visitors",
+		"price": 125,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "skillincrease",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "party",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "beavers",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "poisonship",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicship",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sappers",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siege",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "manhunter",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "predators",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "rdisease",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "revivebean",
+		"price": 1250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "bean",
+		"price": 2500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "levelup",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
-		"karmatype": "Good"
+		"price": 1000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "genderswap",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 1000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "visit",
+		"price": 375,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescue",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "inspire",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "supernova",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "superhot",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "bouldermasshit",
+		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "leanatmosphere",
+		"price": 5000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "icestorm",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "heavyair",
+		"price": 5000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidportal",
+		"price": 5000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "beetlerush",
+		"price": 12500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "traderequest",
+		"price": 750,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wounded",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pirates",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "roadworks",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "dmarriage",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "shaman",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "expo",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "peacetalks",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "piratecamp",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "bumpercrops",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "lodge",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "baseattack",
+		"price": 1000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 3
+	"total": 87
 }
