@@ -1610,7 +1610,7 @@
 	},
 	{
 		"abr": "human",
-		"price": -10,
+		"price": 10,
 		"category": "Animal",
 		"defname": "Human"
 	},
@@ -3656,49 +3656,49 @@
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "CeilingLamp"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Red"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Blue"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Green"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Violet"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Yellow"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Orange"
 	},
 	{
 		"abr": "(old)walllamp",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "WallLamp"
 	},
@@ -4004,13 +4004,13 @@
 	},
 	{
 		"abr": "blastdoor(2x1)",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "PH_DoorBlastDoor"
 	},
 	{
 		"abr": "blastdoor(3x2)",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "PH_DoorThickBlastDoor"
 	},
@@ -4448,7 +4448,7 @@
 	},
 	{
 		"abr": "curtain(tribal)",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "HeronCurtainTribal"
 	},
@@ -4508,13 +4508,13 @@
 	},
 	{
 		"abr": "door(1x2)",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "PH_DoorDouble"
 	},
 	{
 		"abr": "door(3x1)",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "PH_DoorTriple"
 	},
@@ -4700,7 +4700,7 @@
 	},
 	{
 		"abr": "gate(2x1)",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "PH_GateDoubleThick"
 	},
@@ -5096,7 +5096,7 @@
 	},
 	{
 		"abr": "jaildoor",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "PH_DoorJail"
 	},
@@ -5792,13 +5792,13 @@
 	},
 	{
 		"abr": "remotedoor(1x1)",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "PH_DoorRemoteSingle"
 	},
 	{
 		"abr": "remotedoor(2x1)",
-		"price": -10,
+		"price": 10,
 		"category": "Buildings",
 		"defname": "PH_DoorRemoteDouble"
 	},
@@ -6362,19 +6362,19 @@
 	},
 	{
 		"abr": "walllight((blue)old)",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlue"
 	},
 	{
 		"abr": "walllight((green)old)",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreen"
 	},
 	{
 		"abr": "walllight((red)old)",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRed"
 	},
@@ -6404,7 +6404,7 @@
 	},
 	{
 		"abr": "walllight(old)",
-		"price": -10,
+		"price": 10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLight"
 	},
