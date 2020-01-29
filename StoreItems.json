@@ -361,7 +361,7 @@
 		"defname": "ArtificialUlna"
 	},
 	{
-		"abr": "asclepius'sbelt",
+		"abr": "asclepiussbelt",
 		"price": 2500,
 		"category": "Apparel",
 		"defname": "Apparel_HealShield"
@@ -1093,7 +1093,7 @@
 		"defname": "Meat_Dromedary"
 	},
 	{
-		"abr": "drug'boostyourbrain'",
+		"abr": "drugboostyourbrain",
 		"price": 250,
 		"category": "DarkNET Drugs",
 		"defname": "MaxBrain"
@@ -1249,7 +1249,7 @@
 		"defname": "Gun_Energeticharpoon"
 	},
 	{
-		"abr": "energyweapon'deathray'",
+		"abr": "energyweapondeathray",
 		"price": 12500,
 		"category": "Ranged weapons",
 		"defname": "Gun_DeathRay"
@@ -2707,7 +2707,7 @@
 		"defname": "BlocksSandstone"
 	},
 	{
-		"abr": "sculptor'stable",
+		"abr": "sculptorstable",
 		"price": 250,
 		"category": "Production",
 		"defname": "TableSculpting"
@@ -3019,7 +3019,7 @@
 		"defname": "BigBalls"
 	},
 	{
-		"abr": "stonecutter'stable",
+		"abr": "stonecutterstable",
 		"price": 250,
 		"category": "Production",
 		"defname": "TableStonecutter"
@@ -4003,7 +4003,7 @@
 		"defname": "AEXP_Leather_Brownfur"
 	},
 	{
-		"abr": "builder'sjacket",
+		"abr": "buildersjacket",
 		"price": 125,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_BuildersJacket"
@@ -4147,13 +4147,13 @@
 		"defname": "Meat_AEXP_Cheetah"
 	},
 	{
-		"abr": "chef'stoque",
+		"abr": "chefstoque",
 		"price": 100,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_ChefsToque"
 	},
 	{
-		"abr": "chef'suniform",
+		"abr": "chefsuniform",
 		"price": 250,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_ChefsUniform"
@@ -4405,7 +4405,7 @@
 		"defname": "RimWriter_PapermakingBenchElectric"
 	},
 	{
-		"abr": "electricstonecutter'stable",
+		"abr": "electricstonecutterstable",
 		"price": 1000,
 		"category": "Production",
 		"defname": "VFE_TableStonecutterElectric"
@@ -6169,7 +6169,7 @@
 		"defname": "VWE_MeleeWeapon_Wrench"
 	},
 	{
-		"abr": "writer'stable",
+		"abr": "writerstable",
 		"price": 500,
 		"category": "Production",
 		"defname": "RimWriter_TableWriting"
