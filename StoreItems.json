@@ -5921,7 +5921,7 @@
 		"price": 3,
 		"category": "Textiles",
 		"defname": "WoolCloth"
-	},
+	}
 	{
 		"abr": "woolloom",
 		"price": 148,
@@ -5929,5 +5929,5 @@
 		"defname": "BenchWoolLoom"
 	}
 	]
-	"total": 1993
+	"total": 1979
 }
