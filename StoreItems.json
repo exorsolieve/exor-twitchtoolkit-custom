@@ -907,12 +907,6 @@
 		"defname": "HospitalBed"
 	},
 	{
-		"abr": "human",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Human"
-	},
-	{
 		"abr": "humanleather",
 		"price": 50,
 		"category": "Leathers",
@@ -2345,12 +2339,6 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "Immunoenhancer"
-	},
-	{
-		"abr": "infernocannon",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "Gun_InfernoCannon"
 	},
 	{
 		"abr": "infernocannon",
@@ -4963,24 +4951,6 @@
 		"defname": "Lighting_MURWallLightVII"
 	},
 	{
-		"abr": "walllight((blue)old)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightBlue"
-	},
-	{
-		"abr": "walllight((green)old)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightGreen"
-	},
-	{
-		"abr": "walllight((red)old)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRed"
-	},
-	{
 		"abr": "walllight(blue)",
 		"price": 16,
 		"category": "Furniture",
@@ -4993,64 +4963,10 @@
 		"defname": "Lighting_MURWallLightGreenVII"
 	},
 	{
-		"abr": "walllight(old)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLight"
-	},
-	{
 		"abr": "walllight(red)",
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRedVII"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Red"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Blue"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Green"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Violet"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Yellow"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Orange"
-	},
-	{
-		"abr": "(old)walllamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "WallLamp"
 	},
 	{
 		"abr": "advancedbed",
